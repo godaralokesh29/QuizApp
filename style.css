@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+body{
+    background-color: chocolate;
+    padding: 200px;
+}
+
+.container{
+    background-color:palegreen ;
+    width: 50vw;
+    border-radius: 20px;
+    height: 40vh;
+
+    
+
+   
+
+
+}
+
+.quiz{
+    padding: 100px;
+    
+}
+
+.head1{
+    text-align: center;
+}
+
+
+
+
+
+button{
+    width: 140px;
+  
+    background-color: aquamarine;
+
+    border: none;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
